@@ -1,0 +1,1 @@
+  const int screenWidth=600; 
